@@ -38,7 +38,7 @@ ______________________________________________________
 
 - CSPSEC - https://cspsec.in/#(facebook,insta,google)/(data.txt)   <-- For watch the collected credentials.  
 
-![[CSPSEC_SIte.png]]
+<img src="CSPSEC_SIte.png"/>
 
 
 - Another Local Phishing Site :   www.datingrajkot.fun/#((facbook,insta,google,twitter))/FILE_NAME.PHP,HTML
@@ -77,8 +77,7 @@ ______________________________________________________
 
 ***TechHacker Ethical Hacking & Cyber Security Bundle : ***
 
-![[TechHacker Ethical Hacking & Cyber Security Bundle.jpg | 500]]
-
+<img src="TechHacker Ethical Hacking & Cyber Security Bundle.jpg"/>
 
 - CEH Practical (Upcoming)
 - eJPT (Upcoming)
@@ -88,7 +87,7 @@ ______________________________________________________
 
 - Cyber Secured India : 
 
-![[Cyber Secured India.png | 500]]
+<img src="Cyber Secured India.png"/>
 
 ______________________________________________________
 
